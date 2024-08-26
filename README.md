@@ -58,4 +58,18 @@
 
 ## 3. UNPACKING LIST PROBLEM:
 
-**Function Used:** 
+**Function Used:** *writeyourcodehere = [1, 2, 3, 4, 5, 6]*
+
+**Description:** This function creates a list named 'writeyourcodehere' with six numbers in it.
+
+**Function Used:** *first, *middle, last = writeyourcodehere*
+
+**Description:** This function splits the list into three parts: 'first' takes the first number (1), '*middle' collects all the numbers in between (2, 3, 4, 5), and 'last' takes the last number (6).
+
+**Function Used:** *print("Example:", "  ", "1st =", writeyourcodehere)*
+
+**Description:** This function prints the value of the list 'writeyourcodehere', which is [1, 2, 3, 4, 5, 6], along with the message "Example:   1st =".
+
+    Example:    lst = [1, 2, 3, 4, 5, 6] 
+
+    Output:     first: 1    middle: [2,3,4,5]    last: 6
