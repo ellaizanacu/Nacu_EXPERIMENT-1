@@ -15,7 +15,7 @@
 
 **Function Used:** *return sorted_string*
 
-**Description:** The function 'return sorted_string' simply sends back the value of 'sorted_string' as the output of the function. which is the new alphabetically sorted string.
+**Description:** The function 'return sorted_string' simply sends back the value of 'sorted_string' as the output of the function, which is the new alphabetically sorted string.
 
     Example: alphabet_soup("hello")
 
